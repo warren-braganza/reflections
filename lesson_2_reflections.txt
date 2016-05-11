@@ -18,9 +18,11 @@ Branches would be helpful when an experimental feature or variant version of the
 master branch, allowing the developer to test and implement proposed changes easily and efficiently without interfering with the master branch.
 
 How do the diagrams help you visualize the branch structure?
+The diagrams illustrate the branch structure and analyze what changes are added on which commit. This allows the developer to visualise and acti upon commits as necessary.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
