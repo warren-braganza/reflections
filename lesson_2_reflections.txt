@@ -22,7 +22,8 @@ The diagrams illustrate the branch structure and analyze what changes are added 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
-
+The result of merging two branches is a single branch that combines the changes of both branches into one. It is represented in the diagram to illustrate the parent relationships
+and the reachability with respect to other branches and commits
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
