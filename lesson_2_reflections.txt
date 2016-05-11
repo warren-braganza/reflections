@@ -27,3 +27,5 @@ and the reachability with respect to other branches and commits
 
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
+The pros of auto merging is that the user does not have to spend too much time verifying the safety of the merge operations. The con is that this system might not be completely safe
+and could lead to critical errors while merging branches.
