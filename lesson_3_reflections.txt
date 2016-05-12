@@ -12,3 +12,7 @@ A clone is a copy of a repository from a remote to a local machine or from a loc
 A branch is a variant timeline of commits created from an existing repository to add experimental or variant changes in the project. The changes can be merged back
 to the master branch which is the primary branch in git.
 A Fork is like a clone of a project from one github user to another. It maintains the history of forks such as number of forks, origin project, etc.
+
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+A copy of the last known state of the remote needs to be stored locally to enable successful push operations.
