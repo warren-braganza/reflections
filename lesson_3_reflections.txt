@@ -16,3 +16,14 @@ A Fork is like a clone of a project from one github user to another. It maintain
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 A copy of the last known state of the remote needs to be stored locally to enable successful push operations.
+
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Its very inefficient to collaborate without GitHub or Git. Maintaining different versions of code would be very messy and impractical and also unsafe since certain changes might
+not be added to the main project.
+
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Merging a separate branch with the master may create some conflicts, especially if the master has been updated since the separate branch was created. Hence it is better
+to pull the master branch to the local repo and merge the changes with the separate branch. Any conflicts would have to be dealt with here after which the branch can pushed to GitHub where a pull request can
+be made to the author of the master to merge the branch to master.
